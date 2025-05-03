@@ -16,8 +16,7 @@ This project visualizes and analyzes Netflix's movie and TV show data using Powe
 - **Color Styling**: [Coolors Gradient Tool](https://coolors.co/gradient-palette)
 
 ## 📸 Preview
-![Netflix Dashboard Screenshot](![image](https://github.com/user-attachments/assets/10d3a875-071d-4c6f-9e31-85d1271aafba)
-)
+![image](https://github.com/user-attachments/assets/a0d2f4fb-b3f4-4648-a8d3-02f14c6de87f)
 
 ## 📂 Files
 - `20231229 - PBI - Netflix Project.pbix`: Power BI project file
